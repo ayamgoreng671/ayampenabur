@@ -8,5 +8,5 @@ if($aksel == "cina" && $OhNoKrex == "jawa" ){
     echo "Fawaz Jawa";
 }else{
     echo "Ryan Londo";
-    echo "radit Kebab"
+    echo "radit Kebab";
 }
